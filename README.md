@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-monteiro-52b250117/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno195&show_icons=true&theme=dracula)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno195&hide_rank=true&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
